@@ -1,0 +1,55 @@
+{
+  "reservations": [
+    {
+      "id": "80505621",
+      "arrivalDate": "March 24th 2022",
+      "nights": 4,
+      "guests": 2,
+      "status": "Confirmed",
+      "bookedOn": "2022-03-02T19:31:48+07:00",
+      "price": 904
+    },
+    {
+      "id": "80716866",
+      "arrivalDate": "April 19th 2022",
+      "nights": 4,
+      "guests": 3,
+      "status": "Confirmed",
+      "bookedOn": "2022-03-04T19:31:48+07:00",
+      "price": 964
+    }
+  ],
+  "events": [
+    {
+      "title": "New Year's Eve Party",
+      "description": "The Gotham Imperial invites you to celebrate our annual New Year's Eve party.",
+      "img": "/img/event-new-year.jpg",
+      "date": "December 31st 2022"
+    },
+    {
+      "title": "Rooftop Party",
+      "description": "Come celebrate the re-opening of our rooftop bar, following last year's incident.",
+      "img": "/img/event-rooftop.jpg",
+      "date": "March 18th 2022"
+    },
+    {
+      "title": "Horticultural Society Luncheon",
+      "description": "Come celebrate another great year with Gotham's horticultural elite.",
+      "img": "/img/event-horticultural.jpg",
+      "date": "March 20th 2022"
+    },
+    {
+      "title": "Spring Charity Ball",
+      "description": "Gotham Imperial Hotel invites yout to help us fight TBA.",
+      "img": "/img/event-gala.jpg",
+      "date": "March 6th 2022"
+    },
+    {
+      "title": "Halloween Party",
+      "description": "The scariest night of the year in Gotham&hellip; and that's saying a lot!",
+      "img": "/img/event-halloween.jpg",
+      "date": "October 31st 2022"
+    }
+  ],
+  "subscriptions": []
+}
