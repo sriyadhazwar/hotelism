@@ -54,4 +54,4 @@ Tal Ater: [@TalAter](https://twitter.com/TalAter)
 
 Licensed under [MIT](https://github.com/TalAter/Progressive-UI-KITT/blob/master/LICENSE).
 # hotelbooking
-# hotelspabook
+Install NPM first
